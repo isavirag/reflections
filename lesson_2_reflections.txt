@@ -26,5 +26,6 @@ the diagram the way we do?
 
 	It combines the latest changes from two different branches, leaving behind anything that was deleted in either branch. We represent it with connections to both old branches since all commits are stored.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	Git can logically figure out what to merge automatically using the basic logic that new code needs to be added into others. Conflicts resolved also help in case the same code was modified.
