@@ -15,9 +15,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-Branches allow you to create a different version of your program, or test a new feature without changing the main program at all.
+	Branches allow you to create a different version of your program, or test a new feature without changing the main program at all.
 
 How do the diagrams help you visualize the branch structure?
+	
+	Diagrams help you understand where the master branch separates from other branches and what commits have happened since on each.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
