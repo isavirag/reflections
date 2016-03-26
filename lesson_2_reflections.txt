@@ -24,5 +24,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	It combines the latest changes from two different branches, leaving behind anything that was deleted in either branch. We represent it with connections to both old branches since all commits are stored.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
